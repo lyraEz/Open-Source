@@ -6,22 +6,22 @@
 
 ## ✨ Features
 
-- 🧗‍♂️ **Wallhop Modes**: Classic and Ray-based wall detection
-- 💨 **Infinite Jump** toggle
-- 🧠 **Smart Flicks**: Camera-only or Character-only
-- 🎮 Custom keybinds
-- 💾 Auto-save settings using player attributes
-- 🎛️ Polished GUI with animated tabs and clean layout
+- 🧗‍♂️ **Wallhop Modes**: Classic and Ray-based wall detection  
+- 💨 **Infinite Jump** toggle  
+- 🧠 **Smart Flicks**: Camera-only or Character-only  
+- 🎮 Custom keybinds  
+- 💾 Auto-save settings using player attributes  
+- 🎛️ Polished GUI with animated tabs and clean layout  
 
 ---
 
 ## 🎮 How to Use
 
-1. Paste the script into a **LocalScript** (client-side)
-2. Run it inside a game with wallhop-compatible geometry
-3. Use the UI to enable, disable, and tweak behaviors
-4. Test the **Auto Wallhop Ray Mode** for higher precision
-5. Your settings will be saved between sessions
+1. Paste the script into a **LocalScript** (client-side)  
+2. Run it inside a game with wallhop-compatible geometry  
+3. Use the UI to enable, disable, and tweak behaviors  
+4. Test the **Auto Wallhop Ray Mode** for higher precision  
+5. Your settings will be saved between sessions  
 
 ---
 
@@ -45,8 +45,7 @@ Yep. A raycasting-based wall detection system as an alternative to traditional i
 This repository was built with care and consistency.  
 Shared as Open Source to contribute back to the Roblox scripting community.
 
-Use it, study it, improve it — just don't forget where it came from.  
-Enjoy the jump. 🚀
+🧼 The script was cleaned and prepped using [**Code Clean**](https://code-clean-alpha.vercel.app/) — a tool developed by LyraEz to remove junk like `print`, `warn`, and unused lines. It also features **optional variable abbreviation** (beta), and toggleable cleaning modes per language.  
 
 ---
 
