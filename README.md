@@ -1,4 +1,4 @@
-# 🧱 Wallhop & Infinite Jump GUI — by LyraEzK (a.k.a CheadyZ)
+# 🧱 Wallhop & Infinite Jump GUI — by LyraEz (a.k.a CheadyZ)
 
 > Clean code. Sharp functionality. A refined Wallhop and Infinite Jump system with GUI, auto-config saving, and advanced raycast mode.
 
@@ -52,7 +52,7 @@ Enjoy the jump. 🚀
 
 ## 📛 Author
 
-- Created by **LyraEzK**  
+- Created by **LyraEz**  
 - Also known as **CheadyZ**  
 - GitHub: [github.com/lyraEz](https://github.com/lyraEz)  
 - Discord: `lyraezk`
